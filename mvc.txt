@@ -1,0 +1,19 @@
+SOC = SEPERATION OF CONCERN
+MVC = MODEL - VIEW - CONTROLLER
+
+
+
+MODEL = Denk werk - BUSINESS LOGIC - Mag groot zijn - Bankmedewerker => DATAHANDLER
+
+VIEW = UI/User interface - Output - Geen denk werk - Klant
+
+CONTROLLER = Data transporter - Router - Mag niet groot zijn - Verbind VIEW met MODEL - Stappenplan - Baliemedewerker
+
+DATAHANDLER = Kluisbewaker
+
+
+
+INSTANSIEREN = Bij het actieveren van de class begint een functie, vaak is dit construct functie
+DEACTIVEREN = Bij het deactiveren wordt de destruct functie gebruikt
+
+BUSINESS LOGIC = Denk werk van de applicatie
