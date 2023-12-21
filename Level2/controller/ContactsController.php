@@ -1,6 +1,6 @@
 <?php
 
-require_once  'model/ContactsLogic.php';
+require_once 'model/ContactsLogic.php';
 require_once 'model/Output.php';
 
 class ContactsController
